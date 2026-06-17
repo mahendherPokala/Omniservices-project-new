@@ -1,0 +1,6 @@
+{
+  "name": "OmniService",
+  "description": "AI-Powered Service Marketplace Platform connecting customers with verified professionals for on-demand home services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
